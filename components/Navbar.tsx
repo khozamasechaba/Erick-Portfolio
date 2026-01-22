@@ -18,7 +18,7 @@ export const Navbar: React.FC<NavbarProps> = ({ darkMode, toggleDarkMode }) => {
           <ul className="hidden md:flex space-x-6 text-sm font-medium">
             <li><a href="#projects" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">Work</a></li>
             <li><a href="#about" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">About</a></li>
-            <li><a href="#contact" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">Contact</a></li>
+            <li><a href="#contact" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">Let's Connect</a></li>
           </ul>
 
           <button 
